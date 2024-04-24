@@ -1,0 +1,10 @@
+discord.py==1.7.3
+aiohttp
+requests
+colorama
+Flask
+pystyle
+bs4
+pyfiglet==0.8.post1
+openai==0.28.0
+
